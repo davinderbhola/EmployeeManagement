@@ -1,12 +1,22 @@
-# React + Vite
+# Employee Manage-ment Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+First you open the -> Login Page , 
+Then on login page you will be asked for ID &&  Password 
 
-Currently, two official plugins are available:
+I am providing the employe ID's and Passwor 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ALL Employee ID's -> {
+    1. employee1@example.com
+    2. employee2@example.com
+    3. employee3@example.com
+    4. employee4@example.com
+    5. employee5@example.com
+}
 
-## Expanding the ESLint configuration
+And All ID's passcode is same that is -> { 1234 }
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Also I am providing admin id and password -> { 1234 } you can add & give more tasks to employes the 
+but one thing is do not refresh the page after log out admin@me.com becaus i have stor tha data in browser local storge 
+it can not add more data but I promise I will fix this problem soon
+
+Thanku....
